@@ -1,0 +1,3 @@
+• Built a Chrome Extension that applies contrast-safe dynamic themes to any website
+• Implemented brightness control, preset themes, and DOM-level CSS injection
+• Used Manifest V3, Chrome Scripting API, and UI/UX best practices
